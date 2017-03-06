@@ -76,7 +76,7 @@ $ sudo apt-get install librdkafka-dev
 请使用下列命令下载项目：
 
 ```
-$ git clone https://github.com/PerfectExamples/Perfect-Kafka-demo.git
+$ git clone https://github.com/PerfectExamples/Perfect-Kafka-Demo.git
 ```
 
 ## 设置卡夫卡服务器

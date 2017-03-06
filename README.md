@@ -72,7 +72,7 @@ $ sudo apt-get install librdkafka-dev
 Use the following command to clone this project:
 
 ```
-$ git clone https://github.com/PerfectExamples/Perfect-Kafka-demo.git
+$ git clone https://github.com/PerfectExamples/Perfect-Kafka-Demo.git
 ```
 
 ## Setup Kafka Server
